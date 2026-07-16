@@ -10,7 +10,7 @@ public:
             }
             else if( c==0){
                 ct=nums[i];
-                c=1;
+                // c=1;
             }
             else{
                 c--;
