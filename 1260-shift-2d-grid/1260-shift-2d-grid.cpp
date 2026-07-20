@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
-        if(grid.size()<1)return grid;
+        
         
         vector<int> tmp;
         for(int i=0;i<grid.size();i++){
