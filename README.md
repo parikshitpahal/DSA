@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/parikshitpahal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parikshitpahal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/parikshitpahal/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
 | ------- |
