@@ -2,11 +2,20 @@ class Solution {
 public:
     int maxProduct(int n) {
         vector<int>idx;
+        idx.push_back(0);
+        int smx=0;
+        int mx=0;
         while(n){
-            idx.push_back(n%10);
+            if(mx<=n%10){
+                smx=mx;
+                mx=n%10;
+            }
+            else if(smx<n%10){
+                smx=n%10;
+            }
             n=n/10;
         }
-        sort(idx.begin(),idx.end());
-        return idx[idx.size()-1]*idx[idx.size()-2];
+
+        return smx*mx;
     }
 };
