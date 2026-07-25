@@ -1,8 +1,7 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int>idx;
-        idx.push_back(0);
+        
         int smx=0;
         int mx=0;
         while(n){
