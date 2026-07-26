@@ -14,19 +14,18 @@ public:
 
 
         int hg=9;
-        int mx=-1;
         while(x>1){
             hg=hg*10+9;
             x--;
         }
 
-        for(int i=0;i<=hg;i++){
+        for(int i=hg;i>=0;i--){
 
             if(summ(i)==s){
 
-                mx=max(mx,i);
+                return i;
             }
         }
-        return mx;
+        return -1;
     }
 };
