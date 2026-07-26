@@ -10,21 +10,20 @@ public:
         return su;
     }
 
-    int largestInteger(int n, int s) {
-        int x=n;
-        int lw=0;
+    int largestInteger(int x, int s) {
+
+
         int hg=9;
         int mx=-1;
         while(x>1){
             hg=hg*10+9;
             x--;
         }
-        cout<<lw<<endl;
-        cout<<hg<<endl;
-        for(int i=lw;i<=hg;i++){
-            int tmp=summ(i);
-            if(tmp==s){
-                cout<<i<<endl;
+
+        for(int i=0;i<=hg;i++){
+
+            if(summ(i)==s){
+
                 mx=max(mx,i);
             }
         }
