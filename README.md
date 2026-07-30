@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/parikshitpahal/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/parikshitpahal/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
+| [3913-sort-vowels-by-frequency](https://github.com/parikshitpahal/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -127,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parikshitpahal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3913-sort-vowels-by-frequency](https://github.com/parikshitpahal/DSA/tree/master/3913-sort-vowels-by-frequency) |
 <!---LeetCode Topics End-->
