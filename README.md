@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/parikshitpahal/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parikshitpahal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/parikshitpahal/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/parikshitpahal/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/parikshitpahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/parikshitpahal/DSA/tree/master/0078-subsets) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/parikshitpahal/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/parikshitpahal/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parikshitpahal/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/parikshitpahal/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parikshitpahal/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parikshitpahal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
