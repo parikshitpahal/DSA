@@ -11,13 +11,13 @@ public:
             }
             else break;
         }
-        int hash[5100]={0};
+        int hash[52]={0};
         for(auto it:nums){
             hash[it]=1;
         }
-        for(int i=0;i<5000;i++){
+        for(int i=0;i<52;i++){
             if(i>=pre && hash[i]==0)return i;
         }
-        return 0;
+        return pre;
     }
 };
