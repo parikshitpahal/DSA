@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parikshitpahal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/parikshitpahal/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3899-angles-of-a-triangle](https://github.com/parikshitpahal/DSA/tree/master/3899-angles-of-a-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/parikshitpahal/DSA/tree/master/3731-find-missing-elements) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/parikshitpahal/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parikshitpahal/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/parikshitpahal/DSA/tree/master/3731-find-missing-elements) |
