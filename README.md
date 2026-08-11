@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/parikshitpahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/parikshitpahal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/parikshitpahal/DSA/tree/master/3731-find-missing-elements) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/parikshitpahal/DSA/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parikshitpahal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parikshitpahal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/parikshitpahal/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -143,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshitpahal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/parikshitpahal/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/parikshitpahal/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
