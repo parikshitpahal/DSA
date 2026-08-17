@@ -27,8 +27,6 @@ public:
 
         for(int i=0;i<lft.size()-1;i++){
             ans=max(ans,abs(lft[i]-rgt[i+1]));
-            // ans=max(ans,abs(rgt[i]-lft[i+1]));
-            cout<<ans;
         }
 
         return ans;
