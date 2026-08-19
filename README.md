@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/parikshitpahal/DSA/tree/master/0043-multiply-strings) |
+| [0441-arranging-coins](https://github.com/parikshitpahal/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/parikshitpahal/DSA/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
