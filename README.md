@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshitpahal/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parikshitpahal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2140-solving-questions-with-brainpower](https://github.com/parikshitpahal/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parikshitpahal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshitpahal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/parikshitpahal/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parikshitpahal/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
+| [2140-solving-questions-with-brainpower](https://github.com/parikshitpahal/DSA/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
