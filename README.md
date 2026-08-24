@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/parikshitpahal/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [2336-smallest-number-in-infinite-set](https://github.com/parikshitpahal/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parikshitpahal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/parikshitpahal/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/parikshitpahal/DSA/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/parikshitpahal/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parikshitpahal/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshitpahal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parikshitpahal/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parikshitpahal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parikshitpahal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/parikshitpahal/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshitpahal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/parikshitpahal/DSA/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
+| [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/parikshitpahal/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parikshitpahal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
