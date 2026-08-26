@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/parikshitpahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
