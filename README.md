@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parikshitpahal/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/parikshitpahal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parikshitpahal/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/parikshitpahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 ## Backtracking
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 ## Binary Search
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
