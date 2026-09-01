@@ -15,7 +15,7 @@ public:
                 mx=i;
             }
         }
-        cout<<nums.size()<<" "<<mx<<" "<<mn;
+
         if(mx==mn)return 1;
         int n=nums.size();
         int ans=9999;
