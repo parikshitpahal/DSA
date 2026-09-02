@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/parikshitpahal/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/parikshitpahal/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/parikshitpahal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3899-angles-of-a-triangle](https://github.com/parikshitpahal/DSA/tree/master/3899-angles-of-a-triangle) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/parikshitpahal/DSA/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/parikshitpahal/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parikshitpahal/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/parikshitpahal/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/parikshitpahal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3899-angles-of-a-triangle](https://github.com/parikshitpahal/DSA/tree/master/3899-angles-of-a-triangle) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/parikshitpahal/DSA/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Number Theory
