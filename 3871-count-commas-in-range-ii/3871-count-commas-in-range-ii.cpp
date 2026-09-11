@@ -7,7 +7,7 @@ public:
         long long i=999;
         long long pre=1;
         while(pre<=n){
-            cout<<c<<endl;
+
             if(i>n){
                 ans+=c*(n-pre);
                 return ans;
