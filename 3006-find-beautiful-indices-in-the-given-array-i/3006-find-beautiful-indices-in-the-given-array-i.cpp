@@ -14,13 +14,13 @@ public:
 
             if(c==a.size() && c!=0){
                 aa.push_back(idx);
-                cout<<idx<<" ";
+
             }
             
             i=idx;
             
         }
-        cout<<endl;
+
 
         for(int i=0;i<s.size();i++){
             idx=i;
@@ -33,15 +33,11 @@ public:
                 bb.push_back(idx);
                 cout<<idx<<" ";
             }
-            
-            i=idx;
-            
+            i=idx;   
         }
-
-        sort(aa.begin(),aa.end());
-        sort(bb.begin(),bb.end());
+        // sort(aa.begin(),aa.end());
+        // sort(bb.begin(),bb.end());
         vector<int>ams;
-
         for(int i=0;i<aa.size();i++){
             for(int j=0;j<bb.size();j++){
                 if(abs(aa[i]-bb[j])<=k){
@@ -51,8 +47,6 @@ public:
                 }
             }
         }
-        if(aa.size()==0 || bb.size()==0)return {};
-        if(ams.size()>aa.size())ams.resize(aa.size());
         return ams;
     }
 };
