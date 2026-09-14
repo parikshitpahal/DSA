@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parikshitpahal/DSA/tree/master/0066-plus-one) |
 | [0441-arranging-coins](https://github.com/parikshitpahal/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/parikshitpahal/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1927-sum-game](https://github.com/parikshitpahal/DSA/tree/master/1927-sum-game) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/parikshitpahal/DSA/tree/master/0836-rectangle-overlap) |
 | [3899-angles-of-a-triangle](https://github.com/parikshitpahal/DSA/tree/master/3899-angles-of-a-triangle) |
 ## Minimax
 |  |
