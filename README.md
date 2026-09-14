@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parikshitpahal/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
@@ -285,13 +287,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/parikshitpahal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
