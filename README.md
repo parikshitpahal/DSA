@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/parikshitpahal/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parikshitpahal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/parikshitpahal/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parikshitpahal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parikshitpahal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parikshitpahal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/parikshitpahal/DSA/tree/master/0441-arranging-coins) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Design
 |  |
 | ------- |
@@ -302,4 +305,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Rolling Hash
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## String Matching
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
