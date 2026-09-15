@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/parikshitpahal/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parikshitpahal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2937-make-three-strings-equal](https://github.com/parikshitpahal/DSA/tree/master/2937-make-three-strings-equal) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parikshitpahal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
