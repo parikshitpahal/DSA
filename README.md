@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parikshitpahal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/parikshitpahal/DSA/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/parikshitpahal/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/parikshitpahal/DSA/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parikshitpahal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/parikshitpahal/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/parikshitpahal/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
