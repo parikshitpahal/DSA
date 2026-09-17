@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/parikshitpahal/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parikshitpahal/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
@@ -306,11 +308,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parikshitpahal/DSA/tree/master/0100-same-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parikshitpahal/DSA/tree/master/0100-same-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
