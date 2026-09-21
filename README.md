@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshitpahal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3271-hash-divided-string](https://github.com/parikshitpahal/DSA/tree/master/3271-hash-divided-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/parikshitpahal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parikshitpahal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parikshitpahal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3271-hash-divided-string](https://github.com/parikshitpahal/DSA/tree/master/3271-hash-divided-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/parikshitpahal/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/parikshitpahal/DSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Geometry
 |  |
