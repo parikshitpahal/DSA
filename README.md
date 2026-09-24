@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/parikshitpahal/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/parikshitpahal/DSA/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parikshitpahal/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/parikshitpahal/DSA/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/parikshitpahal/DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/parikshitpahal/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/parikshitpahal/DSA/tree/master/2140-solving-questions-with-brainpower) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/parikshitpahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/parikshitpahal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/parikshitpahal/DSA/tree/master/0264-ugly-number-ii) |
 | [0970-powerful-integers](https://github.com/parikshitpahal/DSA/tree/master/0970-powerful-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/parikshitpahal/DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/parikshitpahal/DSA/tree/master/0066-plus-one) |
+| [0264-ugly-number-ii](https://github.com/parikshitpahal/DSA/tree/master/0264-ugly-number-ii) |
 | [0441-arranging-coins](https://github.com/parikshitpahal/DSA/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parikshitpahal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/parikshitpahal/DSA/tree/master/0836-rectangle-overlap) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/parikshitpahal/DSA/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/parikshitpahal/DSA/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parikshitpahal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/parikshitpahal/DSA/tree/master/2336-smallest-number-in-infinite-set) |
