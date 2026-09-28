@@ -3,7 +3,7 @@ public:
     string evaluate(string s, vector<vector<string>>& kno) {
         string ans="";
         
-        map<string,string>mp;
+        unordered_map<string,string>mp;
         for(auto it:kno){
             mp[it[0]]=it[1];
         }
