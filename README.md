@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0970-powerful-integers](https://github.com/parikshitpahal/DSA/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/parikshitpahal/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parikshitpahal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/parikshitpahal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/parikshitpahal/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/parikshitpahal/DSA/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parikshitpahal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parikshitpahal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/parikshitpahal/DSA/tree/master/2140-solving-questions-with-brainpower) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parikshitpahal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parikshitpahal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parikshitpahal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parikshitpahal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
