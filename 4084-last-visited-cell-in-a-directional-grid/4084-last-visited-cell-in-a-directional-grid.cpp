@@ -1,50 +1,38 @@
-#include <vector>
-
-using namespace std;
-
 class Solution {
-private:
-    int last_x = 0;
-    int last_y = 0;
-
-    void solve(int x, int y, vector<vector<char>>& grid, vector<vector<bool>>& visited) {
-        // Record current valid position
-        last_x = x;
-        last_y = y;
-
-        // Determine next cell
-        char dir = grid[x][y];
-        int next_x = x;
-        int next_y = y;
-
-        if (dir == 'R') next_y++;
-        else if (dir == 'L') next_y--;
-        else if (dir == 'U') next_x--;
-        else if (dir == 'D') next_x++;
-
-        // Boundary and visited checks
-        if (next_x < 0 || next_x >= grid.size() || next_y < 0 || next_y >= grid[0].size()) {
-            return;
-        }
-        if (visited[next_x][next_y]) {
-            return;
-        }
-
-        // Mark next cell as visited and recurse
-        visited[next_x][next_y] = true;
-        solve(next_x, next_y, grid, visited);
-    }
-
 public:
+    vector<vector<bool>> mp;
+    int ii=0;
+    int jj=0;
+    void dp(int i,int j,vector<vector<char>>& grid,int x,int y){
+        if(x<0 || y<0)return;
+        if(grid.size()<=x || y>=grid[0].size())return ;
+        if(!mp[x][y]){
+            mp[x][y]=true;
+            ii=x;
+            jj=y;
+ 
+        }
+        else {
+            return;
+        }
+        
+        if(grid[i][j]=='R'){
+            dp(x,y+1,grid,x,y+1);
+        }
+        else if(grid[i][j]=='U'){
+            dp(x-1,y,grid,x-1,y);
+        }
+        else if(grid[i][j]=='L'){
+            dp(x,y-1,grid,x,y-1);
+        }
+        else if(grid[i][j]=='D'){
+           dp(x+1,y,grid,x+1,y);
+        }
+        return;
+    }
     vector<int> lastVisitedCell(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        
-        vector<vector<bool>> visited(m, vector<bool>(n, false));
-        visited[0][0] = true;
-        
-        solve(0, 0, grid, visited);
-        
-        return {last_x, last_y};
+        mp = vector<vector<bool>>(grid.size(), vector<bool>(grid[0].size(), false));
+        dp(0,0,grid,0,0);
+        return {ii,jj};
     }
 };
