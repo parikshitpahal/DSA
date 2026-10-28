@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/parikshitpahal/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/parikshitpahal/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/parikshitpahal/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/parikshitpahal/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parikshitpahal/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parikshitpahal/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/parikshitpahal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
