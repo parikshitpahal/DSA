@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/parikshitpahal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parikshitpahal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/parikshitpahal/DSA/tree/master/2140-solving-questions-with-brainpower) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/parikshitpahal/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parikshitpahal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parikshitpahal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parikshitpahal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/parikshitpahal/DSA/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/parikshitpahal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/parikshitpahal/DSA/tree/master/1763-longest-nice-substring) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/parikshitpahal/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parikshitpahal/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parikshitpahal/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parikshitpahal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/parikshitpahal/DSA/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
