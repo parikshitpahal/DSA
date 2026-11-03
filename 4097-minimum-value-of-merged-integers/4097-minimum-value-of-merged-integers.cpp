@@ -3,8 +3,8 @@ public:
     int minMergedInteger(vector<int>& nums) {
         int x1=0;
         int x2=0;
-        int res=9999;
-        vector<int>ans;
+        int res=INT_MAX;
+        // vector<int>ans;
         for(int i=0;i<nums.size();i+=2){
             x1=nums[i];
             x2=nums[i+1];
@@ -15,9 +15,9 @@ public:
             }
             x1+=x2;
             res=min(res,x1);
-            ans.push_back(x1);
+            // ans.push_back(x1);
         }
-        sort(ans.begin(),ans.end());
-        return ans[0];
+        // sort(ans.begin(),ans.end());
+        return res;
     }
 };
