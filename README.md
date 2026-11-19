@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/parikshitpahal/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/parikshitpahal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/parikshitpahal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/parikshitpahal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/parikshitpahal/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parikshitpahal/DSA/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/parikshitpahal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parikshitpahal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/parikshitpahal/DSA/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/parikshitpahal/DSA/tree/master/3913-sort-vowels-by-frequency) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parikshitpahal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parikshitpahal/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/parikshitpahal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parikshitpahal/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/parikshitpahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parikshitpahal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/parikshitpahal/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parikshitpahal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -373,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/parikshitpahal/DSA/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/parikshitpahal/DSA/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/parikshitpahal/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/parikshitpahal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parikshitpahal/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
